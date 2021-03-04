@@ -1,4 +1,4 @@
-x = int(input('masukkan angka :"))
+x = int(input("masukkan angka :"))
 if x > 0:
 print ("angka positif")
 elif  == 0 :
