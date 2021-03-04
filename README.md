@@ -1,7 +1,7 @@
-x = int(input("masukkan angka :"))
-if x > 0:
+num = float(input("Enter a number: "))
+if num > 0:
 print ("angka positif")
-elif  == 0 :
+elif num == 0:
 print ("nilai 0")
 else :
-print ("angka negatif")
+print("angka negatif")
